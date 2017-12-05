@@ -78,6 +78,6 @@ No diretório py-correios instale as dependências executando o comando abaixo:
 $ pipenv install --dev
 ```
 
-# License
+# Licença
 
 [MIT](http://en.wikipedia.org/wiki/MIT_License)
