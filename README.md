@@ -58,6 +58,26 @@ ou
 >>> correios.encomenda('RY508958848CN')
 ```
 
+# Como contribuir?
+
+Clone o projeto no seu PC:
+
+```bash
+$ git clone https://github.com/hudsonbrendon/py-correios.git
+```
+
+Certifique-se de que o [Pipenv](https://github.com/kennethreitz/pipenv) está instalado, caso contrário:
+
+```bash
+$ pip install -U pipenv
+```
+
+No diretório py-correios instale as dependências executando o comando abaixo:
+
+```bash
+$ pipenv install --dev
+```
+
 # License
 
 [MIT](http://en.wikipedia.org/wiki/MIT_License)
